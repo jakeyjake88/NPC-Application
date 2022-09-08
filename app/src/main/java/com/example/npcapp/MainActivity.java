@@ -10,6 +10,7 @@ import android.widget.EditText;
 import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
+    //Test for git windows
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
