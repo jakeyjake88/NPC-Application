@@ -15,7 +15,7 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <Button
-        android:id="@+id/MainAppHeader"
+        android:id="@+id/MathyAppHeader"
         android:layout_width="421dp"
         android:layout_height="64dp"
         android:text="NPCMeeter"
@@ -33,7 +33,7 @@
         android:inputType="textPersonName"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/MainAppHeader" />
+        app:layout_constraintTop_toBottomOf="@+id/MathyAppHeader" />
 
     <EditText
         android:id="@+id/userAge"
